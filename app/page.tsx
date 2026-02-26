@@ -64,7 +64,7 @@ export default async function Home() {
   }
 
   return (
-    <div className="flex min-h-screen flex-col">
+    <div className="flex min-h-screen flex-col font-sans">
       {/* Hero */}
       <main className="flex flex-1 flex-col items-center justify-center gap-8 px-4 py-24 text-center">
         <div className="flex flex-col items-center gap-4 max-w-2xl">
